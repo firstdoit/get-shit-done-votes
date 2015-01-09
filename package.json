@@ -1,0 +1,26 @@
+{
+  "name": "get-shit-done-votes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gadr/get-shit-done-votes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gadr/get-shit-done-votes/issues"
+  },
+  "scripts": {
+    "start": "coffee index.coffee"
+  },
+  "homepage": "https://github.com/gadr/get-shit-done-votes"
+}
